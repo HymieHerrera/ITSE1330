@@ -1,0 +1,20 @@
+D:\Documents\Books\C#\5th Edition (future)\New Material\Extension Methods\Extension Source Code\Integer Extension Methods\Integer Extension Methods\bin\Debug\Integer Extension Methods.exe.config
+D:\Documents\Books\C#\5th Edition (future)\New Material\Extension Methods\Extension Source Code\Integer Extension Methods\Integer Extension Methods\bin\Debug\Integer Extension Methods.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Extension Methods\Extension Source Code\Integer Extension Methods\Integer Extension Methods\bin\Debug\Integer Extension Methods.pdb
+D:\Documents\Books\C#\5th Edition (future)\New Material\Extension Methods\Extension Source Code\Integer Extension Methods\Integer Extension Methods\obj\Debug\Integer Extension Methods.csprojAssemblyReference.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Extension Methods\Extension Source Code\Integer Extension Methods\Integer Extension Methods\obj\Debug\Integer_Extension_Methods.Form1.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Extension Methods\Extension Source Code\Integer Extension Methods\Integer Extension Methods\obj\Debug\Integer_Extension_Methods.Properties.Resources.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Extension Methods\Extension Source Code\Integer Extension Methods\Integer Extension Methods\obj\Debug\Integer Extension Methods.csproj.GenerateResource.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Extension Methods\Extension Source Code\Integer Extension Methods\Integer Extension Methods\obj\Debug\Integer Extension Methods.csproj.CoreCompileInputs.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Extension Methods\Extension Source Code\Integer Extension Methods\Integer Extension Methods\obj\Debug\Integer Extension Methods.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Extension Methods\Extension Source Code\Integer Extension Methods\Integer Extension Methods\obj\Debug\Integer Extension Methods.pdb
+D:\Documents\Books\C#\5th Edition\New Material\Extension Methods\Extension Source Code\Integer Extension Methods\Integer Extension Methods\bin\Debug\Integer Extension Methods.exe.config
+D:\Documents\Books\C#\5th Edition\New Material\Extension Methods\Extension Source Code\Integer Extension Methods\Integer Extension Methods\bin\Debug\Integer Extension Methods.exe
+D:\Documents\Books\C#\5th Edition\New Material\Extension Methods\Extension Source Code\Integer Extension Methods\Integer Extension Methods\bin\Debug\Integer Extension Methods.pdb
+D:\Documents\Books\C#\5th Edition\New Material\Extension Methods\Extension Source Code\Integer Extension Methods\Integer Extension Methods\obj\Debug\Integer Extension Methods.csprojAssemblyReference.cache
+D:\Documents\Books\C#\5th Edition\New Material\Extension Methods\Extension Source Code\Integer Extension Methods\Integer Extension Methods\obj\Debug\Integer_Extension_Methods.Form1.resources
+D:\Documents\Books\C#\5th Edition\New Material\Extension Methods\Extension Source Code\Integer Extension Methods\Integer Extension Methods\obj\Debug\Integer_Extension_Methods.Properties.Resources.resources
+D:\Documents\Books\C#\5th Edition\New Material\Extension Methods\Extension Source Code\Integer Extension Methods\Integer Extension Methods\obj\Debug\Integer Extension Methods.csproj.GenerateResource.cache
+D:\Documents\Books\C#\5th Edition\New Material\Extension Methods\Extension Source Code\Integer Extension Methods\Integer Extension Methods\obj\Debug\Integer Extension Methods.csproj.CoreCompileInputs.cache
+D:\Documents\Books\C#\5th Edition\New Material\Extension Methods\Extension Source Code\Integer Extension Methods\Integer Extension Methods\obj\Debug\Integer Extension Methods.exe
+D:\Documents\Books\C#\5th Edition\New Material\Extension Methods\Extension Source Code\Integer Extension Methods\Integer Extension Methods\obj\Debug\Integer Extension Methods.pdb
