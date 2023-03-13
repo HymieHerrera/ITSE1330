@@ -1,0 +1,19 @@
+E:\Projects\ITSE1430\Tutorials\Chapter 2\Card Identifier\Card Identifier\bin\Debug\net5.0-windows\Card Identifier.exe
+E:\Projects\ITSE1430\Tutorials\Chapter 2\Card Identifier\Card Identifier\bin\Debug\net5.0-windows\Card Identifier.deps.json
+E:\Projects\ITSE1430\Tutorials\Chapter 2\Card Identifier\Card Identifier\bin\Debug\net5.0-windows\Card Identifier.runtimeconfig.json
+E:\Projects\ITSE1430\Tutorials\Chapter 2\Card Identifier\Card Identifier\bin\Debug\net5.0-windows\Card Identifier.runtimeconfig.dev.json
+E:\Projects\ITSE1430\Tutorials\Chapter 2\Card Identifier\Card Identifier\bin\Debug\net5.0-windows\Card Identifier.dll
+E:\Projects\ITSE1430\Tutorials\Chapter 2\Card Identifier\Card Identifier\bin\Debug\net5.0-windows\ref\Card Identifier.dll
+E:\Projects\ITSE1430\Tutorials\Chapter 2\Card Identifier\Card Identifier\bin\Debug\net5.0-windows\Card Identifier.pdb
+E:\Projects\ITSE1430\Tutorials\Chapter 2\Card Identifier\Card Identifier\obj\Debug\net5.0-windows\Card Identifier.csproj.AssemblyReference.cache
+E:\Projects\ITSE1430\Tutorials\Chapter 2\Card Identifier\Card Identifier\obj\Debug\net5.0-windows\Card_Identifier.Form1.resources
+E:\Projects\ITSE1430\Tutorials\Chapter 2\Card Identifier\Card Identifier\obj\Debug\net5.0-windows\Card_Identifier.Properties.Resources.resources
+E:\Projects\ITSE1430\Tutorials\Chapter 2\Card Identifier\Card Identifier\obj\Debug\net5.0-windows\Card Identifier.csproj.GenerateResource.cache
+E:\Projects\ITSE1430\Tutorials\Chapter 2\Card Identifier\Card Identifier\obj\Debug\net5.0-windows\Card Identifier.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ITSE1430\Tutorials\Chapter 2\Card Identifier\Card Identifier\obj\Debug\net5.0-windows\Card Identifier.AssemblyInfoInputs.cache
+E:\Projects\ITSE1430\Tutorials\Chapter 2\Card Identifier\Card Identifier\obj\Debug\net5.0-windows\Card Identifier.AssemblyInfo.cs
+E:\Projects\ITSE1430\Tutorials\Chapter 2\Card Identifier\Card Identifier\obj\Debug\net5.0-windows\Card Identifier.csproj.CoreCompileInputs.cache
+E:\Projects\ITSE1430\Tutorials\Chapter 2\Card Identifier\Card Identifier\obj\Debug\net5.0-windows\Card Identifier.dll
+E:\Projects\ITSE1430\Tutorials\Chapter 2\Card Identifier\Card Identifier\obj\Debug\net5.0-windows\ref\Card Identifier.dll
+E:\Projects\ITSE1430\Tutorials\Chapter 2\Card Identifier\Card Identifier\obj\Debug\net5.0-windows\Card Identifier.pdb
+E:\Projects\ITSE1430\Tutorials\Chapter 2\Card Identifier\Card Identifier\obj\Debug\net5.0-windows\Card Identifier.genruntimeconfig.cache
