@@ -1,0 +1,10 @@
+C:\Users\Mesqu\source\repos\Discount Calculator\Discount Calculator\bin\Debug\Discount Calculator.exe.config
+C:\Users\Mesqu\source\repos\Discount Calculator\Discount Calculator\bin\Debug\Discount Calculator.exe
+C:\Users\Mesqu\source\repos\Discount Calculator\Discount Calculator\bin\Debug\Discount Calculator.pdb
+C:\Users\Mesqu\source\repos\Discount Calculator\Discount Calculator\obj\Debug\Discount Calculator.csproj.AssemblyReference.cache
+C:\Users\Mesqu\source\repos\Discount Calculator\Discount Calculator\obj\Debug\Discount_Calculator.Form1.resources
+C:\Users\Mesqu\source\repos\Discount Calculator\Discount Calculator\obj\Debug\Discount_Calculator.Properties.Resources.resources
+C:\Users\Mesqu\source\repos\Discount Calculator\Discount Calculator\obj\Debug\Discount Calculator.csproj.GenerateResource.cache
+C:\Users\Mesqu\source\repos\Discount Calculator\Discount Calculator\obj\Debug\Discount Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Mesqu\source\repos\Discount Calculator\Discount Calculator\obj\Debug\Discount Calculator.exe
+C:\Users\Mesqu\source\repos\Discount Calculator\Discount Calculator\obj\Debug\Discount Calculator.pdb
